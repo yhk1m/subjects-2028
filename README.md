@@ -18,3 +18,4 @@ Apps Script 웹 앱을 GitHub Pages 정적 사이트로 옮긴 것. 디자인은
 | tokens.css, controls.css | 당토 디자인 토큰과 공통 부품 |
 | config.js | 설정 |
 | gas/views.gs | Apps Script 조회수 JSON 주소 |
+| gas/move-notice.html | 기존 Apps Script 화면에 붙이는 새 주소 안내 팝업 |
