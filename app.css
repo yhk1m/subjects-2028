@@ -166,3 +166,4 @@
   #pick.has-d #deptGrid .opt[aria-pressed="false"] { display: none; }
   #pick.has-u #uniGrid, #pick.has-d #deptGrid { grid-template-columns: minmax(0, 1fr); }
 }
+.foot .fam { margin-top: var(--sp-3); }
